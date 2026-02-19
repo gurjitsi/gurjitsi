@@ -13,9 +13,9 @@ AI-powered freight platform with LLaMA load matching, GPS tracking, proof-of-del
 ## ✨ Featured Work
 | App | Description | Tech Stack | Downloads |
 |-----|-------------|------------|-----------|
-| [6RPM AI](https://github.com/gurjitsi/6rpm-ios) | Freight platform | SwiftUI, MVVM, LLaMA 3.2 | Live |
-| [Yollect](https://github.com/gurjitsi/yollect-ios) | Resale marketplace | UIKit, Stripe, async/await | Live |
-| [Morango](https://github.com/gurjitsi/morango-ios) | Language learning | Core Data, StoreKit | 10K+ |
+| [6RPM AI]([https://github.com/gurjitsi/6rpm-ios](https://gurjit.co/projects/6rpm.php)) | Freight platform | SwiftUI, MVVM, LLaMA 3.2 | Live |
+| [Yollect]([https://github.com/gurjitsi/yollect-ios](https://gurjit.co/projects/yollect.php)) | Resale marketplace | UIKit, Stripe, async/await | Live |
+| [Morango]([https://github.com/gurjitsi/morango-ios](https://gurjit.co/projects/morangolanguages.php)) | Language learning | Core Data, StoreKit | 10K+ |
 
 ## 🛠️ Tech Stack
 Swift 6.1 - SwiftUI - UIKit - Combine - Core Data - StoreKit
@@ -25,7 +25,7 @@ Xcode - Fastlane - Firebase - Figma
 text
 
 ## 📊 GitHub Stats
-![Gurjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurjitsi&show_icons=true&theme=radical)
+![Gurjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurjitsi&show_icons=true&theme=radical&hide_border=true)
 
 ## 📱 Live Apps
 [![App Store](https://img.shields.io/badge/App_Store-Live-000000?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/developer/gurjit-singh/id1526050315)
