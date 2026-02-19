@@ -22,8 +22,6 @@ Swift 6.1 - SwiftUI - UIKit - Combine - Core Data - StoreKit
 MVVM - Coordinators - async/await - REST APIs - XCTest
 Xcode - Fastlane - Firebase - Figma
 
-text
-
 ## 📱 Live Apps
 [![App Store](https://img.shields.io/badge/App_Store-Live-000000?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/developer/gurjit-singh/id1526050315)
 [![Google Play](https://img.shields.io/badge/Google_Play-Live-00BCD4?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=8419477874177321855)
